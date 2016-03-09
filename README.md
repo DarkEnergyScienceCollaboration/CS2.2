@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Provide mappings from simulated parameters to schema fields
 
 Summary -- ThecosmologicalsimulationsmustbeturnedintocatalogsadheringtotheCatSim schema with parameterized
 galaxy properties. This will include a combination of prescriptions for predicting galaxy properties, fitting
